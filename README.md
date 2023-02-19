@@ -1,4 +1,6 @@
-# nodejs-fastify-mvc-starter-template
+# this course base on this template https://github.com/billowdev/nodejs-ts-fastify-mvc-starter-template
+
+## Node.js + Fastify + Sequelize + MySQL 
 
 ## mrcs = Model-Routes-Controllers-Services
 
