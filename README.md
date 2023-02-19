@@ -194,9 +194,9 @@ however you can use another solution for test your api like postman or if api yo
 
 ### install extension
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/thunder-client.png" alt="thunder-client">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/thunder-client.png" alt="thunder-client">
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/how-to-use-thunder-client.png" alt="how-to-use-thunder-client">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/how-to-use-thunder-client.png" alt="how-to-use-thunder-client">
 
 
 #### 8. so the first time code in index.ts file will be
@@ -329,7 +329,7 @@ export default App
 
 #### 2.4 result api in thunder client
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/api-v1-aticles-get.png" alt="api-v1-aticles-get">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/api-v1-aticles-get.png" alt="api-v1-aticles-get">
 
 
 ## [Node.js fastify EP.5 Controllers](https://youtube.com/@billowdev)
@@ -429,23 +429,23 @@ export default {
 
 ### 2. start server laragon
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/laragon-start.png" alt="laragon-start">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep7/laragon-start.png" alt="laragon-start">
 
 ### 2. open mysql 
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/mysql-open.png" alt="mysql-open">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep7/mysql-open.png" alt="mysql-open">
 
 ### 3. click on database
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/click-database.png" alt="click-database">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep7/click-database.png" alt="click-database">
 
 ### 4. create database
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/create-database.png" alt="create-database">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep7/create-database.png" alt="create-database">
 
 ### 5. node_fastify_db
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/node_fastify_db.png" alt="node_fastify_db">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep7/node_fastify_db.png" alt="node_fastify_db">
 
 ## [Node.js fastify EP.8 Sequelize](https://youtube.com/@billowdev)
 
@@ -905,24 +905,24 @@ export default {
 
 #### GET Articles
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/get-all-article.png" alt="get-all-article">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep9/get-all-article.png" alt="get-all-article">
 
 #### GET ONE Articles
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/get-one-article.png" alt="get-one-article">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep9/get-one-article.png" alt="get-one-article">
 
 
 #### CREATE Articles
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/create-article.png" alt="create-article">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep9/create-article.png" alt="create-article">
 
 #### UPDATE Articles
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/update-article.png" alt="update-article">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep9/update-article.png" alt="update-article">
 
 #### DELETE Articles
 
-<img src="https://raw.githubusercontent.com/billowdev/nodejs-ts-fastify-mvc-starter-template/main/README/images/ep7/delete-article.png" alt="delete-article">
+<img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep9/delete-article.png" alt="delete-article">
 
 
 <!-- ## [Node.js fastify EP.10 auth middleware](https://youtube.com/@billowdev) -->
