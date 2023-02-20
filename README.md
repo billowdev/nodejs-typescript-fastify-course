@@ -7,8 +7,9 @@
 ## BillowDev Youtube
 
 
-## [How to Install Git and using GitHub](https://youtube.com/@billowdev)
-## [How to Install Node.js and VS code](https://youtube.com/@billowdev)
+## [How to Install Git and using GitHub](https://youtu.be/W-jW4givkWs)
+## [How to Install Node.js and VS code](https://youtu.be/R4kmFas0f38)
+## [How to Install Laragon](https://youtu.be/OuJXDowtExc)
 
 
 ## [Node js TypeScript Fastify EP 01 Intro](https://youtu.be/mtW0EbDAZj4)
@@ -425,7 +426,7 @@ export default {
 
 ## [Node js TypeScript Fastify EP 07 MySQL Database](https://youtube.com/@billowdev)
 
-### 1. install laragon following this -> [Youtube](https://youtube.com/@billowdev)
+### 1. install laragon following this -> [Youtube](https://youtu.be/OuJXDowtExc)
 
 ### 2. start server laragon
 
