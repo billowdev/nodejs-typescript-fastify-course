@@ -11,7 +11,7 @@
 ## [How to Install Node.js and VS code](https://youtube.com/@billowdev)
 
 
-## [Node.js fastify EP.1 intro - initial application](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 01 Intro](https://youtu.be/mtW0EbDAZj4)
 
 ```bash
 npm init -y
@@ -190,7 +190,7 @@ const app = fastify({
 
 however you can use another solution for test your api like postman or if api you is get method you also use browser for that but i prefer using thunder client or postman or insomnia because it can use another http method such as GET POST PUT PATCH DELETE etc.
 
-## [Node.js fastify EP.2 thunder client](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 02 Thunder client](https://youtu.be/xkUr9DC3Ny4)
 
 ### install extension
 
@@ -222,7 +222,7 @@ app.listen({port:Number(PORT)}, (err) => {
 
 ## New directory src and controllers routes services etc following below
 
-## [Node.js fastify EP.3 app.ts](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 03 App ](https://youtu.be/49gv58xXmGQ)
 
 ### 1.1 split logic in index.ts to src/app.ts
 
@@ -258,7 +258,7 @@ app.listen({port:Number(PORT)}, (err) => {
 })
 ```
 
-## [Node.js fastify EP.4 Routes](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 04 Routes](https://youtu.be/6TalO0VXYo8)
 
 ### 2.1 create routes in another file src/routes i will example for src/routes/article.route.ts
 
@@ -332,7 +332,7 @@ export default App
 <img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/api-v1-aticles-get.png" alt="api-v1-aticles-get">
 
 
-## [Node.js fastify EP.5 Controllers](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 05 Controllers](https://youtu.be/pE7Z6UaLDi0)
 
 ### 1. controllers/article.controller.ts
 
@@ -382,7 +382,7 @@ const articleRouter = async (app: FastifyInstance) => {
 export default articleRouter;
 ```
 
-## [Node.js fastify EP.6 Services](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 06 Services](https://youtu.be/n-4wBxZiWMQ)
 
 ### 1. services/article.service.ts
 
@@ -423,7 +423,7 @@ export default {
 }
 ```
 
-## [Node.js fastify EP.7 MySQL Database](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 07 MySQL Database](https://youtube.com/@billowdev)
 
 ### 1. install laragon following this -> [Youtube](https://youtube.com/@billowdev)
 
@@ -447,7 +447,7 @@ export default {
 
 <img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep7/node_fastify_db.png" alt="node_fastify_db">
 
-## [Node.js fastify EP.8 Sequelize](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 08 Sequelize](https://youtube.com/@billowdev)
 
 ### 1. install sequelize dotenv and mysql2
 - for sequelize is orm using to interact with database that base on model that our declare
@@ -743,7 +743,7 @@ or
 yarn dev
 ```
 
-## [Node.js fastify EP.9 Example Articles API](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 09 Example Articles API](https://youtube.com/@billowdev)
 in this ep will show example article api in get post put patch delete
 routes -> controllers -> services (calling the model sequelize)  -> mysql database 
 ### content
@@ -925,6 +925,6 @@ export default {
 <img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep9/delete-article.png" alt="delete-article">
 
 
-<!-- ## [Node.js fastify EP.10 auth middleware](https://youtube.com/@billowdev) -->
+<!-- ## [Node js TypeScript Fastify EP 010 auth middleware](https://youtube.com/@billowdev) -->
 
 
