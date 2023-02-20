@@ -424,7 +424,7 @@ export default {
 }
 ```
 
-## [Node js TypeScript Fastify EP 07 MySQL Database](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 07 MySQL Database](https://youtu.be/sdqAMvXOFSY)
 
 ### 1. install laragon following this -> [Youtube](https://youtu.be/OuJXDowtExc)
 
@@ -448,7 +448,7 @@ export default {
 
 <img src="https://raw.githubusercontent.com/billowdev/nodejs-typescript-fastify-course/main/README/images/ep7/node_fastify_db.png" alt="node_fastify_db">
 
-## [Node js TypeScript Fastify EP 08 Sequelize](https://youtube.com/@billowdev)
+## [Node js TypeScript Fastify EP 08 Sequelize](https://youtu.be/-OpbjoCiW24)
 
 ### 1. install sequelize dotenv and mysql2
 - for sequelize is orm using to interact with database that base on model that our declare
